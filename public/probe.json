@@ -1,0 +1,17 @@
+{
+  "epoch": 1783160140,
+  "updatedAt": "2026-07-04T10:15:40.657Z",
+  "source": "binance-p2p",
+  "queries": {
+    "BUY": {
+      "success": true,
+      "total": 0,
+      "usable": 0
+    },
+    "SELL": {
+      "success": true,
+      "total": 0,
+      "usable": 0
+    }
+  }
+}
