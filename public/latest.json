@@ -1,5 +1,5 @@
 {
-  "epoch": 1784050467,
+  "epoch": 1784058160,
   "data": [
     {
       "currency": "USD",
@@ -12,7 +12,7 @@
       "sell": "129.70"
     }
   ],
-  "updatedAt": "2026-07-14T17:34:27.979Z",
+  "updatedAt": "2026-07-14T19:42:40.655Z",
   "source": "bybit",
   "sampleCounts": {
     "usdBuy": 10,
