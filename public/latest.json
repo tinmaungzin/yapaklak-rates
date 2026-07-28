@@ -1,18 +1,18 @@
 {
-  "epoch": 1785235504,
+  "epoch": 1785249453,
   "data": [
     {
       "currency": "USD",
-      "buy": "4459.00",
-      "sell": "4405.50"
+      "buy": "4453.00",
+      "sell": "4415.00"
     },
     {
       "currency": "THB",
-      "buy": "132.61",
-      "sell": "131.02"
+      "buy": "132.44",
+      "sell": "131.31"
     }
   ],
-  "updatedAt": "2026-07-28T10:45:04.105Z",
+  "updatedAt": "2026-07-28T14:37:33.914Z",
   "source": "bybit",
   "sampleCounts": {
     "usdBuy": 10,
@@ -39,13 +39,13 @@
         "success": true,
         "total": 20,
         "usable": 10,
-        "median": 4459
+        "median": 4453
       },
       "SELL": {
         "success": true,
         "total": 20,
         "usable": 10,
-        "median": 4405.5
+        "median": 4415
       }
     }
   }
