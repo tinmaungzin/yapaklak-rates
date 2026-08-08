@@ -1,24 +1,24 @@
 {
-  "epoch": 1786149156,
+  "epoch": 1786157737,
   "data": [
     {
       "currency": "USD",
-      "buy": "4407.50",
-      "sell": "4345.00"
+      "buy": "4399.50",
+      "sell": "4364.50"
     },
     {
       "currency": "THB",
-      "buy": "133.21",
-      "sell": "131.32"
+      "buy": "133.31",
+      "sell": "132.25"
     }
   ],
-  "updatedAt": "2026-08-08T00:32:36.029Z",
+  "updatedAt": "2026-08-08T02:55:37.802Z",
   "source": "bybit",
   "sampleCounts": {
     "usdBuy": 10,
     "usdSell": 10
   },
-  "usdtThbPerUsd": 33.086318,
+  "usdtThbPerUsd": 33.001783,
   "probes": {
     "binance": {
       "BUY": {
@@ -39,13 +39,13 @@
         "success": true,
         "total": 20,
         "usable": 10,
-        "median": 4407.5
+        "median": 4399.5
       },
       "SELL": {
         "success": true,
         "total": 20,
         "usable": 10,
-        "median": 4345
+        "median": 4364.5
       }
     }
   }
